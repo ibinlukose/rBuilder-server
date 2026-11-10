@@ -1,0 +1,309 @@
+{
+  "resumes": [
+    {
+      "fullname": "max",
+      "phone": "41414141",
+      "email": "eeee",
+      "location": "usa ",
+      "linkedin": "hhhh",
+      "github": "kkkk",
+      "degree": "bca",
+      "job": "Graphic Designer",
+      "collage": "calicut",
+      "year": "2023",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Typography",
+        "Brand Identity Design",
+        "Layout Design",
+        "Color Theory",
+        "Creative Thinking",
+        "Visual Communication",
+        "Logo Design",
+        "Image Editing"
+      ],
+      "summary": "Creative graphic designer with expertise in visual communication, branding, and digital design. Skilled in using modern design tools to create compelling visual content.",
+      "id": "SL3uoez1QpI"
+    },
+    {
+      "fullname": "maxddvsdf",
+      "phone": "8888888",
+      "email": "demo",
+      "location": "usa",
+      "linkedin": "demo",
+      "github": "demo",
+      "degree": "bca",
+      "job": "Frontend Developer",
+      "collage": "demo",
+      "year": "2023",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Responsive Design",
+        "Tailwind CSS",
+        "Bootstrap",
+        "Git"
+      ],
+      "summary": "Creative frontend developer with expertise in building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and modern frameworks. Passionate about creating engaging user experiences and optimizing web performance.",
+      "id": "_0mQtsb9r-8"
+    },
+    {
+      "fullname": "max",
+      "phone": "55555",
+      "email": "demo",
+      "location": "usa",
+      "linkedin": "ttttt",
+      "github": "tttt",
+      "degree": "bca",
+      "job": "Digital Marketing Specialist",
+      "collage": "demo",
+      "year": "2023",
+      "skills": [
+        "SEO",
+        "Social Media Marketing",
+        "Content Marketing",
+        "Email Marketing",
+        "Google Analytics",
+        "PPC Advertising",
+        "Campaign Management",
+        "Keyword Research",
+        "Marketing Strategy",
+        "Conversion Optimization"
+      ],
+      "summary": "Digital marketing specialist skilled in SEO, social media marketing, and campaign management to increase brand visibility and customer engagement.",
+      "id": "0PrX_9HnkfY"
+    },
+    {
+      "fullname": "max miller",
+      "phone": "555555",
+      "email": "demo",
+      "location": "england",
+      "linkedin": "demo",
+      "github": "demo",
+      "degree": "bca",
+      "job": "React Developer",
+      "collage": "calicut",
+      "year": "2023",
+      "skills": [
+        "React",
+        "JavaScript",
+        "JSX",
+        "React Hooks",
+        "Redux",
+        "Component Lifecycle",
+        "API Integration",
+        "State Management",
+        "HTML",
+        "CSS"
+      ],
+      "summary": "React developer with strong knowledge of component-based architecture, React hooks, and state management. Experienced in building fast, dynamic, and responsive web applications.",
+      "id": "puQj1jpUigY"
+    },
+    {
+      "fullname": "miller",
+      "phone": "7777",
+      "email": "miller@gmail.com",
+      "location": "england",
+      "linkedin": "demo",
+      "github": "demo",
+      "degree": "bba",
+      "job": "Cybersecurity Analyst",
+      "collage": "demo",
+      "year": "2021",
+      "skills": [
+        "Network Security",
+        "Vulnerability Assessment",
+        "Penetration Testing",
+        "Security Monitoring",
+        "Incident Response",
+        "Risk Assessment",
+        "Firewalls",
+        "Encryption",
+        "Security Compliance",
+        "Threat Analysis"
+      ],
+      "summary": "Cybersecurity analyst focused on protecting systems and networks from cyber threats. Skilled in security monitoring, vulnerability assessment, and incident response.",
+      "id": "NZQJnbtrYWY"
+    },
+    {
+      "fullname": "lewis",
+      "phone": "11111",
+      "email": "lewis@gmail.com",
+      "location": "India",
+      "linkedin": "demo",
+      "github": "demo",
+      "degree": "bsc",
+      "job": "Project Manager",
+      "collage": "calicut",
+      "year": "2024",
+      "skills": [
+        "Project Planning",
+        "Agile Methodology",
+        "Scrum",
+        "Risk Management",
+        "Budget Management",
+        "Team Leadership",
+        "Stakeholder Communication",
+        "Time Management",
+        "Jira",
+        "Decision Making"
+      ],
+      "summary": "Project manager experienced in leading cross-functional teams and delivering projects on time and within budget. Skilled in project planning, stakeholder communication, and risk management.",
+      "id": "gMDMp0iRjTw"
+    },
+    {
+      "fullname": "george",
+      "phone": "5555",
+      "email": "email.com",
+      "location": "scotland",
+      "linkedin": "demo",
+      "github": "demo",
+      "degree": "bsc",
+      "job": "Backend Developer",
+      "collage": "demo",
+      "year": "2024",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST API Development",
+        "Database Design",
+        "MongoDB",
+        "SQL",
+        "Authentication & Authorization",
+        "Server Security",
+        "API Integration",
+        "Git"
+      ],
+      "summary": "Backend developer experienced in building secure and scalable server-side applications. Skilled in REST API development, database management, and ensuring application performance and reliability.",
+      "id": "EBo90_onFXE"
+    },
+    {
+      "fullname": "alex ",
+      "phone": "8888",
+      "email": "alex@gmail.com",
+      "location": "india",
+      "linkedin": "demo",
+      "github": "github",
+      "degree": "bba",
+      "job": "Business Analyst",
+      "collage": "calicut",
+      "year": "2021",
+      "skills": [
+        "Requirement Gathering",
+        "Business Process Analysis",
+        "Data Analysis",
+        "Stakeholder Communication",
+        "Documentation",
+        "Process Improvement",
+        "SQL",
+        "Agile Methodology",
+        "Problem Solving",
+        "Reporting"
+      ],
+      "summary": "Business analyst experienced in analyzing business processes, gathering requirements, and providing data-driven insights to support strategic decision-making.",
+      "id": "Edo6fPzzl3s"
+    },
+    {
+      "fullname": "jack",
+      "phone": "41414141",
+      "email": "jack@gmail.com",
+      "location": "austrailia",
+      "linkedin": "linkedin",
+      "github": "demo",
+      "degree": "bca",
+      "job": "Machine Learning Engineer",
+      "collage": "calicut",
+      "year": "2023",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Deep Learning",
+        "Data Preprocessing",
+        "Model Deployment",
+        "Natural Language Processing",
+        "Computer Vision",
+        "MLOps"
+      ],
+      "summary": "Machine learning engineer experienced in developing, training, and deploying machine learning models. Skilled in data preprocessing, model evaluation, and AI-driven solution development.",
+      "id": "fFNKnamhjd0"
+    }
+  ],
+  "downlaods": [
+    {
+      "timeStamp": "10/29/2026,10:50:42 AM",
+      "resumeImg": "https://res.cloudinary.com/hg8j808s/image/upload/v1793251321/aaedixrf5n1pxsgnkrbr.png",
+      "resumeId": "SL3uoez1QpI",
+      "jobRole": "Graphic Designer",
+      "id": "b-RadQyzHkg"
+    },
+    {
+      "timeStamp": "10/29/2026,10:50:44 AM",
+      "resumeImg": "https://res.cloudinary.com/hg8j808s/image/upload/v1793251325/d3unacsmlduipx0diyif.png",
+      "resumeId": "SL3uoez1QpI",
+      "jobRole": "Graphic Designer",
+      "id": "o0JY362XE4c"
+    },
+    {
+      "timeStamp": "10/29/2026,10:51:00 AM",
+      "resumeImg": "https://res.cloudinary.com/hg8j808s/image/upload/v1793251340/mgducv5fzfat22mmysfe.png",
+      "resumeId": "SL3uoez1QpI",
+      "jobRole": "Graphic Designer",
+      "id": "zWeLJwyjLr4"
+    },
+    {
+      "timeStamp": "10/29/2026,10:52:24 AM",
+      "resumeImg": "https://res.cloudinary.com/hg8j808s/image/upload/v1793251424/pc5c7krrvsc8iuaor7uc.png",
+      "resumeId": "SL3uoez1QpI",
+      "jobRole": "Graphic Designer",
+      "id": "r_dO71qtQ34"
+    },
+    {
+      "timeStamp": "10/29/2026,10:52:25 AM",
+      "resumeImg": "https://res.cloudinary.com/hg8j808s/image/upload/v1793251426/maodkdzt4tiyjew8kcdr.png",
+      "resumeId": "SL3uoez1QpI",
+      "jobRole": "Graphic Designer",
+      "id": "EnjjQWhN4dc"
+    },
+    {
+      "timeStamp": "10/29/2026,10:52:33 AM",
+      "resumeImg": "https://res.cloudinary.com/hg8j808s/image/upload/v1793251433/jef8ahqrfwxtglwc0ahs.png",
+      "resumeId": "SL3uoez1QpI",
+      "jobRole": "Graphic Designer",
+      "id": "6mUsG8YyfXM"
+    },
+    {
+      "timeStamp": "10/29/2026,10:53:34 AM",
+      "resumeImg": "https://res.cloudinary.com/hg8j808s/image/upload/v1793251495/pudus8kgeqg5xahw4tzx.png",
+      "resumeId": "SL3uoez1QpI",
+      "jobRole": "Graphic Designer",
+      "id": "oh0mNhZvYJ0"
+    },
+    {
+      "timeStamp": "10/29/2026,11:30:58 AM",
+      "resumeImg": "https://res.cloudinary.com/hg8j808s/image/upload/v1793253737/o6szbyj8xxmyejp2sx9l.png",
+      "resumeId": "SL3uoez1QpI",
+      "jobRole": "Graphic Designer",
+      "id": "NHc7emUey_0"
+    },
+    {
+      "timeStamp": "10/29/2026,11:31:00 AM",
+      "resumeImg": "https://res.cloudinary.com/hg8j808s/image/upload/v1793253738/e0nc1ggz2pdavvgly7ku.png",
+      "resumeId": "SL3uoez1QpI",
+      "jobRole": "Graphic Designer",
+      "id": "9tc6C-XtDyU"
+    },
+    {
+      "timeStamp": "10/29/2026,12:25:20 PM",
+      "resumeImg": "https://res.cloudinary.com/hg8j808s/image/upload/v1793256995/l4reig70amni7myegm57.png",
+      "resumeId": "SL3uoez1QpI",
+      "jobRole": "Graphic Designer",
+      "id": "m280xVLBm0Q"
+    }
+  ]
+ 
+}
